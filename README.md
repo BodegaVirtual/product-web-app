@@ -12,6 +12,7 @@ A fast, responsive, and SEO-friendly public storefront for the [GraphQL Product 
 * **PayPal Integration**: Secure checkout flow using PayPal's "Create" and "Capture" order logic.
 * **Optimized Performance**: High-speed delivery via AWS CloudFront and S3.
 * **Responsive UI**: Fully mobile-optimized design for shopping on any device.
+* **Language Support**: Supports multi-language. Defaults to English.
 
 ---
 
